@@ -16,6 +16,7 @@ public class SPTV20GitPro {
      */
     public static void main(String[] args) {
         System.out.println("First version project");
+        System.out.println("Second version project");
     }
     
 }
